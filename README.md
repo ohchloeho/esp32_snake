@@ -16,5 +16,9 @@ The objective of this project is to learn about the project structure of a typic
 
 ### PlatformIO environment & Setup
 
+
+
+### ESP32 Pin Configurations
+
 ***
 
