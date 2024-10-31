@@ -35,7 +35,7 @@ void drawGame() {
 
     // Draw the snake
     for (const auto& segment : snake) {
-        u8g2.drawBox(segment.x * 4, segment.y * 4, 4, 4); // Each segment is now a 4x4 block
+        u8g2.drawBox(segment.x * 4, segment.y * 4, 4, 4); // Each segment is a 4x4 block
     }
 
     // Draw the food
